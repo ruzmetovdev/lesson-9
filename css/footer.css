@@ -1,0 +1,51 @@
+.ctm p {
+  margin-top: 25px;
+  width: 344px;
+  height: 84px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #757575;
+}
+.ctm .i {
+  margin-top: 101px;
+}
+.disk ul {
+  margin-top: 50px;
+  margin-bottom: 192px;
+  display: flex;
+  gap: 19px;
+}
+.footr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.pages h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #08546c;
+}
+.pages p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 45px;
+  color: #787878;
+}
+.pages .p {
+  margin-top: 28px;
+}
+.pages .pp {
+  margin-bottom: 34px;
+}
+.pages .ppp {
+  margin-bottom: 73px;
+}
+
